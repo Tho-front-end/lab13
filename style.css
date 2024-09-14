@@ -1,18 +1,18 @@
 .bg-img1 {
   background-color: #000;
-  background: url(image/1.jpg) no-repeat;
+  background: url(1.jpg) no-repeat;
   background-size: cover;
 }
 
 .bg-img2 {
   background-color: #000;
-  background: url(image/2.jpg) no-repeat;
+  background: url(2.jpg) no-repeat;
   background-size: cover;
 }
 
 .bg-img3 {
   background-color: #000;
-  background: url(image/3.jpg) no-repeat;
+  background: url(3.jpg) no-repeat;
   background-size: cover;
 }
 
